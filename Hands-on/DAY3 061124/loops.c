@@ -92,7 +92,7 @@ int main(){
     printf("=============\n\n");
 
     for(printf("Incrementation\t");printf("Condition check\t");printf("Updation\t")){//ex4:
-        printf("hello");//
+        printf("hello");//ex4
         getchar();
         break;
     }
